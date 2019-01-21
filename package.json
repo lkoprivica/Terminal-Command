@@ -1,0 +1,24 @@
+{
+  "name": "terminal-command",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkoprivica/Terminal-Command.git"
+  },
+  "author": "Lindsay Koprivica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkoprivica/Terminal-Command/issues"
+  },
+  "homepage": "https://github.com/lkoprivica/Terminal-Command#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
